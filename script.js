@@ -3,7 +3,6 @@ let number = 27
 let anoDeNasc = 2022 - 26
 console.log(anoDeNasc)
 console.log(`${nome} está mexendo no console.log`)
-let diaDaSemana = "Quarta-feira"
-let boolean = "falso"
-console.log(`Hoje não é ${diaDaSemana}, portanto o valor atribuído é ${boolean}`)
-//não sei como exibir no console o tipo de dado de uma variável...
+let quartaFeira = false
+console.log(quartaFeira)
+console.log("Quarta-Feira é um dado boolean")
